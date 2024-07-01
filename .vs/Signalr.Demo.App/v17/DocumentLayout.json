@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D109AB-0E12-404F-9614-14432D31DD45}|Signalr.MVC\\Signalr.MVC.csproj|c:\\users\\hp\\source\\repos\\signalr.demo.app\\signalr.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6D109AB-0E12-404F-9614-14432D31DD45}|Signalr.MVC\\Signalr.MVC.csproj|solutionrelative:signalr.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874AEB7B-3CB0-433B-B5A6-17FC8471C41C}|Signalr.Api\\Signalr.Api.csproj|c:\\users\\hp\\source\\repos\\signalr.demo.app\\signalr.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{874AEB7B-3CB0-433B-B5A6-17FC8471C41C}|Signalr.Api\\Signalr.Api.csproj|solutionrelative:signalr.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874AEB7B-3CB0-433B-B5A6-17FC8471C41C}|Signalr.Api\\Signalr.Api.csproj|c:\\users\\hp\\source\\repos\\signalr.demo.app\\signalr.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874AEB7B-3CB0-433B-B5A6-17FC8471C41C}|Signalr.Api\\Signalr.Api.csproj|solutionrelative:signalr.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D109AB-0E12-404F-9614-14432D31DD45}|Signalr.MVC\\Signalr.MVC.csproj|c:\\users\\hp\\source\\repos\\signalr.demo.app\\signalr.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6D109AB-0E12-404F-9614-14432D31DD45}|Signalr.MVC\\Signalr.MVC.csproj|solutionrelative:signalr.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D109AB-0E12-404F-9614-14432D31DD45}|Signalr.MVC\\Signalr.MVC.csproj|c:\\users\\hp\\source\\repos\\signalr.demo.app\\signalr.mvc\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6D109AB-0E12-404F-9614-14432D31DD45}|Signalr.MVC\\Signalr.MVC.csproj|solutionrelative:signalr.mvc\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D109AB-0E12-404F-9614-14432D31DD45}|Signalr.MVC\\Signalr.MVC.csproj|c:\\users\\hp\\source\\repos\\signalr.demo.app\\signalr.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D109AB-0E12-404F-9614-14432D31DD45}|Signalr.MVC\\Signalr.MVC.csproj|solutionrelative:signalr.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874AEB7B-3CB0-433B-B5A6-17FC8471C41C}|Signalr.Api\\Signalr.Api.csproj|c:\\users\\hp\\source\\repos\\signalr.demo.app\\signalr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874AEB7B-3CB0-433B-B5A6-17FC8471C41C}|Signalr.Api\\Signalr.Api.csproj|solutionrelative:signalr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D109AB-0E12-404F-9614-14432D31DD45}|Signalr.MVC\\Signalr.MVC.csproj|c:\\users\\hp\\source\\repos\\signalr.demo.app\\signalr.mvc\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F6D109AB-0E12-404F-9614-14432D31DD45}|Signalr.MVC\\Signalr.MVC.csproj|solutionrelative:signalr.mvc\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Signalr.MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Signalr.MVC\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T19:42:56.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Signalr.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Signalr.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T19:37:57.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.MVC\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "Signalr.MVC\\wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.MVC\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "Signalr.MVC\\wwwroot\\js\\chat.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-01T19:26:12.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Signalr.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Signalr.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T19:25:24.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.MVC\\Views\\Home\\Test.cshtml",
+              "RelativeDocumentMoniker": "Signalr.MVC\\Views\\Home\\Test.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.MVC\\Views\\Home\\Test.cshtml",
+              "RelativeToolTip": "Signalr.MVC\\Views\\Home\\Test.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T19:23:12.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Signalr.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Signalr.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:22:45.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.Api\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Signalr.Api\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.Api\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Signalr.Api\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:10:38.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Signalr.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Signalr.Demo.App\\Signalr.Api\\Program.cs",
+              "RelativeToolTip": "Signalr.Api\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:09:54.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
